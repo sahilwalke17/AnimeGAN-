@@ -98,5 +98,3 @@ I did not carefully verify them, if you are looking for some general GAN tips, s
 1. This project is heavily influenced by [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) and [IllustrationGAN](https://github.com/tdrussell/IllustrationGAN), the codes are mostly borrowed from [PyTorch DCGAN example](https://github.com/pytorch/examples/tree/master/dcgan), thanks the authors for the clean codes.
 2. Dependencies: pytorch, torchvision
 3. This is a toy project for me to learn PyTorch and GANs, most importantly, for fun! :) Any feedback is welcome.
-
-@jayleicn
